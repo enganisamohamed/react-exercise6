@@ -1,11 +1,9 @@
-import UserCard from "./UserCard";
+import Blog from './Blog';
 
 const App = () => {
   return (
     <div>
-      <h1>User Information</h1>
-
-      <UserCard />
+      <Blog />
     </div>
   );
 };
