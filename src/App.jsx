@@ -1,9 +1,9 @@
-import Blog from './Blog';
+import ToggleButton from './ToggleButton';
 
 const App = () => {
   return (
     <div>
-      <Blog />
+      <ToggleButton />
     </div>
   );
 };
